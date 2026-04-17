@@ -9,6 +9,5 @@ Usage
 
 Run the file using Python:
 
-python filename.py
 Author
 Krms13
