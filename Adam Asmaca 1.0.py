@@ -21,7 +21,6 @@ Liste=["Alanyaspor",
 Kelime=random.choice(Liste).lower()
 Harfler="abcçdefgğhiıjklmnoöprsştuüvyz"
 Sayı1 = 7
-print(Kelime)
 tahmin = ""
 Kapatma = 0
 yapılantahmin = ""
